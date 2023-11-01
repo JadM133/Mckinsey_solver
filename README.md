@@ -2,6 +2,13 @@
 
 The purpose of this tiny library is to solve the Mckinsey environment problem using python.
 
+# Detailed installation guide:
+
+- First clone the rep: git clone https://github.com/JadM133/Mckinsey_solver.git
+- Second, after creating and activating your venv, install the library by: pip install .\Mckinsey_solver\
+- Finally, run: python .\Mckinsey_solver\example.py to make sure the installation was successful.
+- After that, you can create your own example by simply importing the classes as follows: from mckinsey_solver import Producer, Animal, Environment
+
 # Notes for use:
 
 - The example here is the one given in https://www.youtube.com/watch?v=4xpbD218sos. I just added a sixth animal to show that the code will take all available combinations of 5 animals. I advise that you try running the different scenarios discussed in the video within the code and make sure you get the same outcomes.

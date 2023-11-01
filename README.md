@@ -2,10 +2,6 @@
 
 The purpose of this tiny library is to solve the Mckinsey environment problem using python.
 
-# Installation:
-
-pip install mckinsey_solver (you might want to copy the igithub link)
-
 # Notes for use:
 
 - The example here is the one given in https://www.youtube.com/watch?v=4xpbD218sos. I just added a sixth animal to show that the code will take all available combinations of 5 animals. I advise that you try running the different scenarios discussed in the video within the code and make sure you get the same outcomes.
@@ -22,4 +18,4 @@ pip install mckinsey_solver (you might want to copy the igithub link)
     
 - Runtime: The code will print every combination tried (it will try all every possible combination of 5 animals with the three producers) and in the end, it will either print that the environment is not sustainable (no need to waste your time there then), or it will print a happy message with the combination having the largest remaining calories picked out for you.
     
-- Good luck! If I can assist further, please contact me on jad.mounayer@outlook.com"""
+- Good luck! If I can assist further, please contact me on jad.mounayer@outlook.com

@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "mckinsey_solver"
+version = "0.1"
+dependencies = ["numpy"]
+
+[tool.black]
+line-length = 120
